@@ -1,4 +1,3 @@
-# tas-kagit-makas-csharp
 # Taş Kağıt Makas (C# Konsol Oyunu)
 
 Klasik **Taş-Kağıt-Makas** oyununun C# konsol sürümü.  
